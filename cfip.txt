@@ -37,13 +37,6 @@ huakai2024.com
 jstmtyn.com
 www.ntu.edu.sg
 cloudflare.lingyucat.com
-ao3l.site
-cm.cloudflare.cnae.top
-cu.cloudflare.cnae.top
-ct.cloudflare.cnae.top
-ct.cloudflare.byoip.top
-cu.cloudflare.byoip.top
-cm.cloudflare.byoip.top
 jp.111000.cc.cd
 hindawi.com
 oauth.wiley.com
