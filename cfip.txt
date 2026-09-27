@@ -1,8 +1,8 @@
 oauth.wiley.com
 zampto.net
 railway.app
-top-games.net
 kerit.cloud
+doope.jp
 cipf.ca
 cf.930318.xyz
 cf.090227.xyz
@@ -32,6 +32,5 @@ jp.111000.cc.cd
 hindawi.com
 5ch.net
 nijie.info
-doope.jp
 104.16.4.14#CF优选干净
 162.159.130.87#移动快不快
