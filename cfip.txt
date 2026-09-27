@@ -11,9 +11,7 @@ cdn.yiso.fun
 cf.aaok.vip
 www.mwkk.cc
 p.etime.vip
-cloudflare.182682.xyz
 yepu.cc
-yx2.xn--11x.org
 yyxycn.com
 yx1.niaot.com
 clun.top
@@ -23,7 +21,6 @@ skycs.cloudflareaccess.com
 store.ubi.com
 www.shopify.com
 mfa.gov.ua
-staticdelivery.nexusmods.com
 saas.sin.fan
 cf.0sm.com
 sub.bbc.xx.kg
@@ -34,5 +31,6 @@ hindawi.com
 nijie.info
 pella.app
 hidencloud.com
+falixnodes.net
 104.16.4.14#CF优选干净
 162.159.130.87#移动快不快
