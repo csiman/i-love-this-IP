@@ -42,3 +42,13 @@ mogul.sg#SG-mogul.sg
 gv.com.sg#SG-gv.com.sg
 nuh.com.sg#SG-nuh.com.sg
 suss.edu.sg#SG-suss.edu.sg
+roku.com#US-roku.com
+wrike.com#US-wrike.com
+goat.com#US-goat.com
+vizio.com#US-vizio.com
+thx.com#US-thx.com
+sofi.com#US-sofi.com
+chime.com#US-chime.com
+bitgo.com#US-bitgo.com
+x.com#US-x.com
+base.org#US-base.org
