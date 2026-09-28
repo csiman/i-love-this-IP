@@ -32,5 +32,13 @@ nijie.info
 pella.app
 hidencloud.com
 falixnodes.net
-104.16.4.14#CF优选干净
-162.159.130.87#移动快不快
+go.gov.sg#SG-go.gov.sg
+99.co#SG-99.co
+syfe.com#SG-syfe.com
+zula.sg#SG-zula.sg
+era.com.sg#SG-era.com.sg
+srx.com.sg#SG-srx.com.sg
+mogul.sg#SG-mogul.sg
+gv.com.sg#SG-gv.com.sg
+nuh.com.sg#SG-nuh.com.sg
+suss.edu.sg#SG-suss.edu.sg
