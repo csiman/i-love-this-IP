@@ -27,8 +27,6 @@ sub.bbc.xx.kg
 huakai2024.com
 jp.111000.cc.cd
 hindawi.com
-5ch.net
-nijie.info
 pella.app
 hidencloud.com
 falixnodes.net
@@ -42,7 +40,6 @@ mogul.sg#SG-mogul.sg
 gv.com.sg#SG-gv.com.sg
 nuh.com.sg#SG-nuh.com.sg
 suss.edu.sg#SG-suss.edu.sg
-roku.com#US-roku.com
 wrike.com#US-wrike.com
 goat.com#US-goat.com
 vizio.com#US-vizio.com
@@ -50,5 +47,16 @@ thx.com#US-thx.com
 sofi.com#US-sofi.com
 chime.com#US-chime.com
 bitgo.com#US-bitgo.com
-x.com#US-x.com
 base.org#US-base.org
+zenn.dev#JP-zenn.dev
+www.mod.go.jp#JP-mod.go.jp
+gmo.jp#JP-gmo.jp
+www.daiei.co.jp#JP-daiei.co.jp
+www.seiyu.co.jp#JP-seiyu.co.jp
+www.jcb.co.jp#JP-jcb.co.jp
+ztore.com#HK-ztore.com
+gogox.com#HK-gogox.com
+welab.co#HK-welab.co
+scmp.com#HK-scmp.com
+yata.hk#HK-yata.hk
+price.com.hk#HK-price.com.hk
