@@ -1,13 +1,12 @@
-cf.930318.xyz#Daat 维护
-bloom.host#US-bloom.host
-auth0.com#US-auth0.com
-skiff.com#US-skiff.com
-bun.sh#US-bun.sh
-epik.com#US-epik.com
-104.com.tw#TW-104.com.tw
-cw.com.tw#TW-cw.com.tw
-ftv.com.tw#TW-ftv.com.tw
-juksy.com#TW-juksy.com
-net.com.tw#TW-net.com.tw
-bella.tw#TW-bella.tw
-ck101.com#TW-ck101.com
+bloom.host
+auth0.com
+skiff.com
+bun.sh
+epik.com
+104.com.tw
+cw.com.tw
+ftv.com.tw
+juksy.com
+net.com.tw
+bella.tw
+ck101.com
