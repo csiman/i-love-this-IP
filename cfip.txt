@@ -31,7 +31,6 @@ pella.app
 hidencloud.com
 falixnodes.net
 go.gov.sg#SG-go.gov.sg
-99.co#SG-99.co
 syfe.com#SG-syfe.com
 zula.sg#SG-zula.sg
 era.com.sg#SG-era.com.sg
