@@ -20,6 +20,7 @@ cfip.1323123.xyz
 skycs.cloudflareaccess.com
 store.ubi.com
 www.shopify.com
+www.mfyx.cn
 mfa.gov.ua
 saas.sin.fan
 cf.0sm.com
